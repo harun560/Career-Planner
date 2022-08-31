@@ -1,0 +1,41 @@
+.joon{
+    background-color: bisque;
+    border: 30px solid blueviolet;
+    width: 790px;
+    height: 600px;
+    padding: 20px 30px;
+    margin: 0 auto;
+   
+}
+
+h1{
+    border: 5px dashed rgb(23 50 169);
+    text-align: center;
+}
+
+#hii ,#fii,#foo ,#chek ,#wees{
+    border: 3px solid burlywood
+  }
+
+  
+
+ #first #second #third {
+    color:blue;
+    text-shadow: #8c6b48;
+
+ }
+
+th {
+    border: 1px solid #8c6b48;
+}
+
+table {
+    text-align: center;
+    margin: 20px auto;
+}
+
+td {
+    border: 1px solid #8c6b48;
+    width: 300px;
+}
+
